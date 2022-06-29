@@ -17,7 +17,7 @@ Three weeks 15 days, with a lecture and an exercise every day.
 
     - Reading: https://www.deeplearningbook.org/contents/linear_algebra.html
 
-- Statistics - Probability Theory(Elena)
+- Statistics - Probability Theory (Elena)
     - random variable
     - mean and variance
     - common probability distributions
