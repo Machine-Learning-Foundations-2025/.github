@@ -60,5 +60,5 @@ Three weeks, 15 days, with a lecture and an exercise every day.
     - Integrated gradients
     - Sequence to sequence models (i.e. machine translation)
 
-    - Reading: http://arxiv.org/abs/1703.01365
+    Reading: http://arxiv.org/abs/1703.01365
 
