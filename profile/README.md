@@ -5,7 +5,7 @@ Three weeks, 15 days, with a lecture and an exercise every day.
 - Basic programming in Python
     If you are not yet familiar with python, please consult:
     https://docs.python.org/3/tutorial/
-    before the first session.
+    *before the first session*.
 
 ### Course contents
 - Introduction: What is machine learning, and what can it do for us?
