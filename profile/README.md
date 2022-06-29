@@ -1,5 +1,5 @@
 ## Foundations of Machine Learning in Python
-Three weeks 15 days, with a lecture and an exercise every day.
+Three weeks, 15 days, with a lecture and an exercise every day.
 
 ### Prerequisites:
 - Basic programming in Python
