@@ -10,14 +10,14 @@ Three weeks, 15 days, with a lecture and an exercise every day.
 ### Course contents
 - Introduction: What is machine learning, and what can it do for us?
 
-- Linear Algebra (Elena)
+- Linear Algebra
     - Matrix multiplication
     - Eigenvalues and principal component analysis (PCA).
     - Linear dimensionality reduction using PCA.
 
     - Reading: https://www.deeplearningbook.org/contents/linear_algebra.html
 
-- Statistics - Probability Theory (Elena)
+- Statistics - Probability Theory
     - random variable
     - mean and variance
     - common probability distributions
@@ -25,14 +25,14 @@ Three weeks, 15 days, with a lecture and an exercise every day.
 
     - Reading: https://www.deeplearningbook.org/contents/prob.html
 
-- Calculus (Moritz)
+- Calculus 
     - Gradients
     - Optimization
     - Gradient descent
 
     - Reading: https://www.deeplearningbook.org/contents/optimization.html
 
-- Foundations of machine learning (Elena)
+- Foundations of machine learning
     - overfitting and underfitting
     - clustering
     - Non-linear dimensionality reduction using t-SNE (seed dependent).
@@ -41,7 +41,7 @@ Three weeks, 15 days, with a lecture and an exercise every day.
         - SVM classification
         - SVM time series prediction.
 
-- Deep feedforward networks (Moritz)
+- Deep feedforward networks
     - Image Analysis
         - Fully connected networks
             - image classification
@@ -56,7 +56,7 @@ Three weeks, 15 days, with a lecture and an exercise every day.
     https://www.deeplearningbook.org/contents/optimization.html
 
 
-- Interpretability and Sequence learning (Moritz) 
+- Interpretability and Sequence learning
     - Integrated gradients
     - Sequence to sequence models (i.e. machine translation)
 
