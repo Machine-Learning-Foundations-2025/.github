@@ -27,8 +27,7 @@ Three weeks, 15 days, with a lecture and an exercise every day.
 
 - Calculus 
     - Gradients
-    - Optimization
-    - Gradient descent
+    - Optimization via gradient descent
 
     Reading: https://www.deeplearningbook.org/contents/optimization.html
 
