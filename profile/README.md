@@ -23,7 +23,7 @@ Three weeks, 15 days, with a lecture and an exercise every day.
     - common probability distributions
     - correlation and auto-correlation
 
-    - Reading: https://www.deeplearningbook.org/contents/prob.html
+    Reading: https://www.deeplearningbook.org/contents/prob.html
 
 - Calculus 
     - Gradients
