@@ -15,7 +15,7 @@ Three weeks, 15 days, with a lecture and an exercise every day.
     - Eigenvalues and principal component analysis (PCA).
     - Linear dimensionality reduction using PCA.
 
-    - Reading: https://www.deeplearningbook.org/contents/linear_algebra.html
+    Reading: https://www.deeplearningbook.org/contents/linear_algebra.html
 
 - Statistics - Probability Theory
     - random variable
@@ -30,7 +30,7 @@ Three weeks, 15 days, with a lecture and an exercise every day.
     - Optimization
     - Gradient descent
 
-    - Reading: https://www.deeplearningbook.org/contents/optimization.html
+    Reading: https://www.deeplearningbook.org/contents/optimization.html
 
 - Foundations of machine learning
     - overfitting and underfitting
