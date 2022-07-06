@@ -2,7 +2,7 @@
 Three weeks, 15 days, a lecture and exercises every day. The course takes place from September 12 th  to 30 th , 9:00-17:00 at the University IT and Data Center (Hochschulrechenzentrum HRZ). The course structure is 90 minutes lecture, 90 min exercises followed by 4 hrs of programming under guidance from the tutors.
 
 ### Prerequisites:
-- Basic programming in Python
+- Basic programming in Python.
     If you are not yet familiar with python, please consult:
     https://docs.python.org/3/tutorial/
     *before the first session*.
