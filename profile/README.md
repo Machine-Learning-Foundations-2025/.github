@@ -15,7 +15,7 @@ Three weeks, 15 days, a lecture and exercises every day. The course takes place 
     - Eigenvalues and principal component analysis (PCA).
     - Linear dimensionality reduction using PCA.
 
-    Reading: https://www.deeplearningbook.org/contents/linear_algebra.html
+    *Optional reading*: https://www.deeplearningbook.org/contents/linear_algebra.html
 
 - Statistics - Probability Theory
     - random variable
@@ -23,13 +23,13 @@ Three weeks, 15 days, a lecture and exercises every day. The course takes place 
     - common probability distributions
     - correlation and auto-correlation
 
-    Reading: https://www.deeplearningbook.org/contents/prob.html
+    *Optional reading*: https://www.deeplearningbook.org/contents/prob.html
 
 - Calculus 
     - Gradients
     - Optimization via gradient descent
 
-    Reading: https://www.deeplearningbook.org/contents/optimization.html
+    *Optional reading*: https://www.deeplearningbook.org/contents/optimization.html
 
 - Foundations of machine learning
     - overfitting and underfitting
@@ -50,7 +50,7 @@ Three weeks, 15 days, a lecture and exercises every day. The course takes place 
             - CNN for image segmentation
     - Optimization for deep neural networks
 
-    Reading: https://www.deeplearningbook.org/contents/mlp.html,
+    *Optional reading*: https://www.deeplearningbook.org/contents/mlp.html,
     https://www.deeplearningbook.org/contents/convnets.html, and
     https://www.deeplearningbook.org/contents/optimization.html
 
@@ -59,5 +59,5 @@ Three weeks, 15 days, a lecture and exercises every day. The course takes place 
     - Integrated gradients
     - Sequence to sequence models (i.e. machine translation)
 
-    Reading: http://arxiv.org/abs/1703.01365
+    *Optional reading*: http://arxiv.org/abs/1703.01365
 
