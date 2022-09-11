@@ -40,14 +40,10 @@ Three weeks, 15 days, a lecture and exercises every day. The course takes place 
         - SVM classification
         - SVM time series prediction.
 
-- Deep feedforward networks
+- Deep Learning
     - Image Analysis
         - Fully connected networks
-            - image classification
-            - time-series prediction
         - Convolutional neural networks
-            - CNN for image classification
-            - CNN for image segmentation
     - Optimization for deep neural networks
 
     *Optional reading*: https://www.deeplearningbook.org/contents/mlp.html,
@@ -57,7 +53,7 @@ Three weeks, 15 days, a lecture and exercises every day. The course takes place 
 
 - Interpretability and Sequence learning
     - Integrated gradients
-    - Sequence to sequence models (i.e. machine translation)
+    - Sequence to sequence models (i.e. language processing)
 
     *Optional reading*: http://arxiv.org/abs/1703.01365
 
