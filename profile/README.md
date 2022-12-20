@@ -59,6 +59,9 @@ Three weeks, 15 days, a lecture and exercises every day. The course takes place 
 
 
 
+## Support
+
+This project has been supported by the state of North Rhine-Westphalia and the Federal Ministry of Education and Research
 
 <table>
 <tr>
