@@ -65,7 +65,7 @@ We thank the state of North Rhine-Westphalia and the Federal Ministry of Educati
 
 <table>
 <tr>
-    <td><img src="https://github.com/Machine-Learning-Foundations/.github/blob/main/profile/img/BMBF_gefoerdert_2017_en.jpg" height="150"></td>
     <td><img src="https://github.com/Machine-Learning-Foundations/.github/blob/main/profile/img/nrw-logo.png" height="150"></td>
+    <td><img src="https://github.com/Machine-Learning-Foundations/.github/blob/main/profile/img/BMBF_gefoerdert_2017_en.jpg" height="150"></td>
 </tr>
 </table>
