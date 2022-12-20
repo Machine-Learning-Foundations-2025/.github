@@ -1,6 +1,7 @@
 ## Foundations of Machine Learning in Python
 Three weeks, 15 days, a lecture and exercises every day. The course takes place from September 12 th  to 30 th , 9:00-17:00 at the University of Bonn's IT and Data Center (Hochschulrechenzentrum HRZ). The course structure is 90 minutes lecture, 90 min exercises followed by 4 hrs of programming under guidance from the tutors.
-Register here: https://www.hpc.uni-bonn.de/en/training/courses/ml_intro
+
+Members of the University of Bonn can [register via ecampus](https://www.hpc.uni-bonn.de/en/training/courses/ml_intro).
 
 Three weeks, 15 days, a lecture and exercises every day. The three-week course takes place from 9:00-17:00 at the University IT and Data Center (Hochschulrechenzentrum HRZ). The course structure is 90 minutes of lecture 90 min exercises, followed by 4 hrs of programming under guidance from the tutors.
 
