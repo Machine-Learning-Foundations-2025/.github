@@ -1,61 +1,53 @@
 ## Foundations of Machine Learning in Python
 Three weeks, 15 days, a lecture and exercises every day. The course takes place from September 12 th  to 30 th , 9:00-17:00 at the University of Bonn's IT and Data Center (Hochschulrechenzentrum HRZ). The course structure is 90 minutes lecture, 90 min exercises followed by 4 hrs of programming under guidance from the tutors.
+Register here: https://www.hpc.uni-bonn.de/en/training/courses/ml_intro
 
-### Prerequisites:
-- Basic programming in Python.
-    If you are not yet familiar with python, please consult:
-    https://docs.python.org/3/tutorial/
-    *before the first session*.
+Three weeks, 15 days, a lecture and exercises every day. The three-week course takes place from 9:00-17:00 at the University IT and Data Center (Hochschulrechenzentrum HRZ). The course structure is 90 minutes of lecture 90 min exercises, followed by 4 hrs of programming under guidance from the tutors.
 
-### Course contents
-- Introduction: What is machine learning, and what can it do for us?
+Prerequisites:
+Programming in Python. If you are not yet familiar with python, please consult https://docs.python.org/3/tutorial/ before the first session.
 
-- Linear Algebra
-    - Matrix multiplication
-    - Eigenvalues and principal component analysis (PCA).
-    - Linear dimensionality reduction using PCA.
+## Course contents:
 
-    *Optional reading*: https://www.deeplearningbook.org/contents/linear_algebra.html
+### Week I, Basics
+- Day 1: Introduction
+    - What is machine learning, and what can it do for us?
+- Day 2: Optimization
+    - The derivative, gradients, optimization via gradient descent.
+- Day 3:   Linear Algebra:
+   - Matrix multiplication, singular value decomposition, Linear Regression.
+- Day 4:  Statistics - Probability Theory I
+   - random variable, mean and variance, conditional probability.
+- Day 5: Statistics - Probability Theory II
+   - common probability distributions, correlation and auto-correlation.
 
-- Statistics - Probability Theory
-    - random variable
-    - mean and variance
-    - common probability distributions
-    - correlation and auto-correlation
+### Week 2, Foundations of machine learning
+- Day 1: Machine learning basics
+  - Overfitting and underfitting, classification, regression, k-nearest neighbours.
+- Day 2: Support vector machines
+  - Linear separable, non-linear separable, kernel trick.
+- Day 3: Decision trees and random forests:
+  - Decision trees, random forests, bias and variance problem, bagging.
+- Day 4:  Clustering and density estimation
+  - K-means clustering, Gaussian mixture models, expectation-maximization.
+- Day 5: Principal component analysis (PCA)
+  - PCA for dimensionality reduction, PCA for compression and other applications.
 
-    *Optional reading*: https://www.deeplearningbook.org/contents/prob.html
+### Week 3, Deep Learning
+- Day 11: Fully connected networks:
+    -  The MNIST-data set, artificial neurons, forward and backward pass.
+- Day 12: Convolutional neural networks:
+    -  The convolution operation and convolutional neural networks.
+- Day 13: Optimization for deep neural networks:
+    -  gradient descent with momentum, Adam, early stopping, regularization.
+- Day 14: Interpretability:
+    - visualization of linear classifiers, saliency maps, integrated gradients
+ - Day 15: Sequence models:
+    - Long-Short-Term-Memory, Gated recurrent units, text-based language models.
 
-- Calculus 
-    - Gradients
-    - Optimization via gradient descent
+See you during the course,
 
-    *Optional reading*: https://www.deeplearningbook.org/contents/optimization.html
-
-- Foundations of machine learning
-    - overfitting and underfitting
-    - clustering
-    - Non-linear dimensionality reduction using t-SNE (seed dependent).
-    - Decision trees and random forests
-    - Support vector machines
-        - SVM classification
-        - SVM time series prediction.
-
-- Deep Learning
-    - Image Analysis
-        - Fully connected networks
-        - Convolutional neural networks
-    - Optimization for deep neural networks
-
-    *Optional reading*: https://www.deeplearningbook.org/contents/mlp.html,
-    https://www.deeplearningbook.org/contents/convnets.html, and
-    https://www.deeplearningbook.org/contents/optimization.html
-
-
-- Interpretability and Sequence learning
-    - Integrated gradients
-    - Sequence to sequence models (i.e. language processing)
-
-    *Optional reading*: http://arxiv.org/abs/1703.01365
+Your lecturers, Elena and Moritz.
 
 
 
