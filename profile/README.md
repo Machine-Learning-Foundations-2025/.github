@@ -59,8 +59,8 @@ Three weeks, 15 days, a lecture and exercises every day. The course takes place 
 
 
 
-<img src="img/BMBF_gefoerdert_2017_en.jpg" height="250">
-<img src="img/nrw-logo.png" height="250">
+<img src="https://github.com/Machine-Learning-Foundations/.github/blob/main/profile/img/BMBF_gefoerdert_2017_en.jpg" height="250">
+<img src="https://github.com/Machine-Learning-Foundations/.github/blob/main/profile/img/nrw-logo.png" height="250">
 
 <!--
 <p align="center">
