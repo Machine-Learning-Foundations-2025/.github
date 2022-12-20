@@ -57,3 +57,13 @@ Three weeks, 15 days, a lecture and exercises every day. The course takes place 
 
     *Optional reading*: http://arxiv.org/abs/1703.01365
 
+
+
+<img src="img/BMBF_gefoerdert_2017_en.jpg" height="250">
+<img src="img/nrw-logo.png" height="250">
+
+<!--
+<p align="center">
+  <img src="img/BMBF_gefoerdert_2017_en" height="150">
+</p>
+-->
