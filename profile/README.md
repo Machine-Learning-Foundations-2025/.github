@@ -10,7 +10,7 @@ Programming in Python. If you are not yet familiar with python, please consult h
 
 ## Course contents:
 
-### Week I, Basics
+### Part I, Basics
 - Day 1: Introduction
     - What is machine learning, and what can it do for us?
 - Day 2: Optimization
@@ -18,23 +18,24 @@ Programming in Python. If you are not yet familiar with python, please consult h
 - Day 3:   Linear Algebra:
    - Matrix multiplication, singular value decomposition, Linear Regression.
 - Day 4:  Statistics - Probability Theory I
-   - random variable, mean and variance, conditional probability.
-- Day 5: Statistics - Probability Theory II
-   - common probability distributions, correlation and auto-correlation.
+   - mean and variance, correlation, gaussians.
 
-### Week 2, Foundations of machine learning
-- Day 1: Machine learning basics
+### Part 2, Foundations of machine learning
+- Day 5: Machine learning basics
   - Overfitting and underfitting, classification, regression, k-nearest neighbours.
-- Day 2: Support vector machines
+- Day 6: Support vector machines
   - Linear separable, non-linear separable, kernel trick.
-- Day 3: Decision trees and random forests:
+- Day 7: Decision trees and random forests:
   - Decision trees, random forests, bias and variance problem, bagging.
-- Day 4:  Clustering and density estimation
+- Day 8:  Clustering and density estimation
   - K-means clustering, Gaussian mixture models, expectation-maximization.
-- Day 5: Principal component analysis (PCA)
+- Day 9: Principal component analysis (PCA)
   - PCA for dimensionality reduction, PCA for compression and other applications.
 
-### Week 3, Deep Learning
+### Part 3, Unsing HPC Systems
+- Day 10: Introduction to the HPC Systems at Uni Bonn.
+
+### Part 4, Deep Learning
 - Day 11: Fully connected networks:
     -  The MNIST-data set, artificial neurons, forward and backward pass.
 - Day 12: Convolutional neural networks:
