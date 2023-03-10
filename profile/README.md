@@ -17,7 +17,7 @@ Programming in Python. If you are not yet familiar with python, please consult h
     - The derivative, gradients, optimization via gradient descent.
 - Day 3:   Linear Algebra:
    - Matrix multiplication, singular value decomposition, Linear Regression.
-- Day 4:  Statistics - Probability Theory I
+- Day 4:  Statistics
    - mean and variance, correlation, gaussians.
 
 ### Part 2, Foundations of machine learning
