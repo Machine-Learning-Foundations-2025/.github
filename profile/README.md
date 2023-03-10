@@ -10,7 +10,7 @@ Programming in Python. If you are not yet familiar with python, please consult h
 
 ## Course contents:
 
-### Part I, Basics
+### Part 1, Basics
 - Day 1: Introduction
     - What is machine learning, and what can it do for us?
 - Day 2: Optimization
@@ -20,7 +20,7 @@ Programming in Python. If you are not yet familiar with python, please consult h
 - Day 4:  Statistics - Probability Theory I
    - mean and variance, correlation, gaussians.
 
-### Part II, Foundations of machine learning
+### Part 2, Foundations of machine learning
 - Day 5: Machine learning basics
   - Overfitting and underfitting, classification, regression, k-nearest neighbours.
 - Day 6: Support vector machines
@@ -32,10 +32,10 @@ Programming in Python. If you are not yet familiar with python, please consult h
 - Day 9: Principal component analysis (PCA)
   - PCA for dimensionality reduction, PCA for compression and other applications.
 
-### Part III, Unsing HPC Systems
+### Part 3, Unsing HPC Systems
 - Day 10: Introduction to the HPC Systems at Uni Bonn.
 
-### Part IV, Deep Learning
+### Part 4, Deep Learning
 - Day 11: Fully connected networks:
     -  The MNIST-data set, artificial neurons, forward and backward pass.
 - Day 12: Convolutional neural networks:
