@@ -32,7 +32,7 @@ Programming in Python. If you are not yet familiar with python, please consult h
 - Day 9: Principal component analysis (PCA)
   - PCA for dimensionality reduction, PCA for compression and other applications.
 
-### Part 3, Unsing HPC Systems
+### Part 3, Using HPC Systems
 - Day 10: Introduction to the HPC Systems at Uni Bonn.
 
 ### Part 4, Deep Learning
