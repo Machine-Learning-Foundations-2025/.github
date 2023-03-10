@@ -20,7 +20,7 @@ Programming in Python. If you are not yet familiar with python, please consult h
 - Day 4:  Statistics - Probability Theory I
    - mean and variance, correlation, gaussians.
 
-### Part 2, Foundations of machine learning
+### Part II, Foundations of machine learning
 - Day 5: Machine learning basics
   - Overfitting and underfitting, classification, regression, k-nearest neighbours.
 - Day 6: Support vector machines
@@ -32,10 +32,10 @@ Programming in Python. If you are not yet familiar with python, please consult h
 - Day 9: Principal component analysis (PCA)
   - PCA for dimensionality reduction, PCA for compression and other applications.
 
-### Part 3, Unsing HPC Systems
+### Part III, Unsing HPC Systems
 - Day 10: Introduction to the HPC Systems at Uni Bonn.
 
-### Part 4, Deep Learning
+### Part IV, Deep Learning
 - Day 11: Fully connected networks:
     -  The MNIST-data set, artificial neurons, forward and backward pass.
 - Day 12: Convolutional neural networks:
