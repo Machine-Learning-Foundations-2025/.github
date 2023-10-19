@@ -40,12 +40,12 @@ Programming in Python. If you are not yet familiar with python, please consult h
     -  The MNIST-data set, artificial neurons, forward and backward pass.
 - Day 12: Convolutional neural networks:
     -  The convolution operation and convolutional neural networks.
-- Day 13: Optimization for deep neural networks:
+- Day 13: Segmentation and optimization for deep learning:
     -  gradient descent with momentum, Adam, early stopping, regularization.
 - Day 14: Interpretability:
     - visualization of linear classifiers, saliency maps, integrated gradients
  - Day 15: Sequence models:
-    - Long-Short-Term-Memory, Gated recurrent units, text-based language models.
+    - Transformers, Long-Short-Term-Memory, text-based language models.
 
 See you during the course,
 
