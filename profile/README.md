@@ -13,6 +13,7 @@ Programming in Python. If you are not yet familiar with python, please consult h
 ### Part 1, Basics
 - Day 1: Introduction
     - What is machine learning, and what can it do for us?
+    - [recording](https://uni-bonn.sciebo.de/s/7LI8Rs9fzw6jhiA), [slides](https://uni-bonn.sciebo.de/s/V3P9eO6YwH6RQWS)
 - Day 2: Optimization
     - The derivative, gradients, optimization via gradient descent.
 - Day 3:   Linear Algebra:
