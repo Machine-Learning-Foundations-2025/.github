@@ -23,12 +23,16 @@ Programming in Python. If you are not yet familiar with python, please consult h
 ### Part 2, Foundations of machine learning
 - Day 5: Machine learning basics
   - Overfitting and underfitting, classification, regression, k-nearest neighbours.
+  - [exercise](https://github.com/Machine-Learning-Foundations/day_05_exercise_ML_basics)
 - Day 6: Support vector machines
   - Linear separable, non-linear separable, kernel trick.
+  - [exercise](https://github.com/Machine-Learning-Foundations/day_06_exercise_svm_svr)
 - Day 7: Decision trees and random forests:
   - Decision trees, random forests, bias and variance problem, bagging.
+  - [exercise](https://github.com/Machine-Learning-Foundations/day_07_exercise_decision_trees)
 - Day 8:  Clustering and density estimation
   - K-means clustering, Gaussian mixture models, expectation-maximization.
+  - [exercise](https://github.com/Machine-Learning-Foundations/day_08_exercise_cluster_analysis)
 - Day 9: Principal component analysis (PCA)
   - PCA for dimensionality reduction, PCA for compression and other applications.
   - [exercise](https://github.com/Machine-Learning-Foundations/day_09_exercise_dim_reduction)
