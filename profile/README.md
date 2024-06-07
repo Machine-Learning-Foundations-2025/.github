@@ -31,6 +31,7 @@ Programming in Python. If you are not yet familiar with python, please consult h
   - K-means clustering, Gaussian mixture models, expectation-maximization.
 - Day 9: Principal component analysis (PCA)
   - PCA for dimensionality reduction, PCA for compression and other applications.
+  - [exercise](https://github.com/Machine-Learning-Foundations/day_09_exercise_dim_reduction)
 
 ### Part 3, Using HPC Systems
 - Day 10: Introduction to the HPC Systems at Uni Bonn.
