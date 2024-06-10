@@ -16,6 +16,7 @@ Programming in Python. If you are not yet familiar with python, please consult h
     - [recording](https://uni-bonn.sciebo.de/s/7LI8Rs9fzw6jhiA), [slides](https://uni-bonn.sciebo.de/s/V3P9eO6YwH6RQWS)
 - Day 2: Optimization
     - The derivative, gradients, optimization via gradient descent.
+    - [recording](https://uni-bonn.sciebo.de/s/8W7P94GSBmMsdOs), [exercise](https://github.com/Machine-Learning-Foundations/day_02_exercise_optimization),  [slides](https://uni-bonn.sciebo.de/s/fI9v8QmIm1O1wc2) 
 - Day 3:   Linear Algebra:
    - Matrix multiplication, singular value decomposition, Linear Regression.
 - Day 4:  Statistics
