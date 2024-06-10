@@ -29,13 +29,13 @@ Programming in Python. If you are not yet familiar with python, please consult h
   - Linear separable, non-linear separable, kernel trick.
   - [recording](https://uni-bonn.sciebo.de/s/Mgreb3nu7lYmxnJ), [exercise](https://github.com/Machine-Learning-Foundations/day_06_exercise_svm_svr), [slides](https://uni-bonn.sciebo.de/s/OSOG8bNDDh0Bo6N)
 - Day 7: Decision trees and random forests:
-  - Decision trees, random forests, bias and variance problem, bagging.
+  - Decision trees, bias and variance problem, bagging, random forests.
   - [recording](https://uni-bonn.sciebo.de/s/WaQtWe0yyGQXpuT), [exercise](https://github.com/Machine-Learning-Foundations/day_07_exercise_decision_trees), [slides](https://uni-bonn.sciebo.de/s/Nm7oshdmzwFCYmG)
 - Day 8:  Clustering and density estimation
-  - K-means clustering, Gaussian mixture models, expectation-maximization.
+  - K-means clustering, Gaussian mixture models, Expectation-Maximization.
   - [recording](https://uni-bonn.sciebo.de/s/UvA3P7u9h9otQJZ), [exercise](https://github.com/Machine-Learning-Foundations/day_08_exercise_cluster_analysis), [slides](https://uni-bonn.sciebo.de/s/qLlRb3xrna9quY7)
 - Day 9: Principal component analysis (PCA)
-  - PCA for dimensionality reduction, PCA for compression and other applications.
+  - PCA for dimensionality reduction and other applications.
   - [recording](https://uni-bonn.sciebo.de/s/8fe7DVTntSAdu1R), [exercise](https://github.com/Machine-Learning-Foundations/day_09_exercise_dim_reduction), [slides](https://uni-bonn.sciebo.de/s/HNty8VNExI3dPl4)
 
 ### Part 3, Using HPC Systems
