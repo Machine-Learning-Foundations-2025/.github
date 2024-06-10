@@ -19,6 +19,7 @@ Programming in Python. If you are not yet familiar with python, please consult h
     - [recording](https://uni-bonn.sciebo.de/s/8W7P94GSBmMsdOs), [exercise](https://github.com/Machine-Learning-Foundations/day_02_exercise_optimization),  [slides](https://uni-bonn.sciebo.de/s/fI9v8QmIm1O1wc2) 
 - Day 3:   Linear Algebra:
    - Matrix multiplication, singular value decomposition, Linear Regression.
+   - [recording](https://uni-bonn.sciebo.de/s/w5smMgZSHZU53qf), [exercise](https://github.com/Machine-Learning-Foundations/day_03_exercise_algebra), [slides](https://uni-bonn.sciebo.de/s/2r7NA3KWIuaJNdy)
 - Day 4:  Statistics
    - mean and variance, correlation, gaussians.
 
