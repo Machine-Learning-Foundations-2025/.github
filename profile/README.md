@@ -59,7 +59,7 @@ Programming in Python. If you are not yet familiar with python, please consult h
     - [recording](https://uni-bonn.sciebo.de/s/v7BERpB3KGN0m4m), [exercise](https://github.com/Machine-Learning-Foundations/day_14_exercise_interpretability), [slides](https://uni-bonn.sciebo.de/s/H7suTOhvj4ECko6)
  - Day 15: Sequence models:
     - Transformers, Long-Short-Term-Memory, text-based language models.
-    - [recording](https://uni-bonn.sciebo.de/s/H2QWgA78IIkdDJ1), [exercise](https://github.com/Machine-Learning-Foundations/day_15_exercise_sequence_processing), [slides](https://uni-bonn.sciebo.de/s/g56Hh4lNja6A39S)
+    - [recording](https://uni-bonn.sciebo.de/s/H2QWgA78IIkdDJ1), [exercise](https://github.com/Machine-Learning-Foundations/day_15_exercise_transformer), [slides](https://github.com/Machine-Learning-Foundations/day_15_lecture_sequence_processing/blob/main/presentation.pdf)
 
 See you during the course,
 
