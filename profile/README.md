@@ -47,19 +47,19 @@ Programming in Python. If you are not yet familiar with python, please consult h
 ### Part 4, Deep Learning
 - Day 11: Fully connected networks:
     -  The MNIST-data set, artificial neurons, forward and backward pass.
-    -  [recording](https://uni-bonn.sciebo.de/s/OQoPHoIAxVJEBPj), [exercise](https://github.com/Machine-Learning-Foundations/day_05_exercise_neural_networks), [slides](https://uni-bonn.sciebo.de/s/dAILvtcj5FWoke1)
+    -  [recording](https://uni-bonn.sciebo.de/s/OQoPHoIAxVJEBPj), [exercise](https://github.com/Machine-Learning-Foundations/day_10_exercise_neural_networks), [slides](https://uni-bonn.sciebo.de/s/dAILvtcj5FWoke1)
 - Day 12: Convolutional neural networks:
     -  The convolution operation and convolutional neural networks.
-    -  [recording](https://uni-bonn.sciebo.de/s/A7yBH42clJC87hM), [exercise](https://github.com/Machine-Learning-Foundations/day_06_exercise_cnn), [slides](https://uni-bonn.sciebo.de/s/wC9OVeHqO1OLiB4)
+    -  [recording](https://uni-bonn.sciebo.de/s/A7yBH42clJC87hM), [exercise](https://github.com/Machine-Learning-Foundations/day_11_exercise_cnn), [slides](https://uni-bonn.sciebo.de/s/wC9OVeHqO1OLiB4)
 - Day 13: Segmentation and optimization for deep learning:
     -  gradient descent with momentum, Adam, early stopping, regularization.
-    -  [recording](https://uni-bonn.sciebo.de/s/X6iAaPgCALsZtNk), [exercise](https://github.com/Machine-Learning-Foundations/day_07_exercise_brain_decode), [slides](https://uni-bonn.sciebo.de/s/rWJRhQAGVkhpZwA)
+    -  [recording](https://uni-bonn.sciebo.de/s/X6iAaPgCALsZtNk), [exercise](https://github.com/Machine-Learning-Foundations/day_12_exercise_brain_decode), [slides](https://uni-bonn.sciebo.de/s/rWJRhQAGVkhpZwA)
 - Day 14: Interpretability:
     - visualization of linear classifiers, saliency maps, integrated gradients
-    - [recording](https://uni-bonn.sciebo.de/s/v7BERpB3KGN0m4m), [exercise](https://github.com/Machine-Learning-Foundations/day_08_exercise_interpretability), [slides](https://uni-bonn.sciebo.de/s/H7suTOhvj4ECko6)
+    - [recording](https://uni-bonn.sciebo.de/s/v7BERpB3KGN0m4m), [exercise](https://github.com/Machine-Learning-Foundations/day_13_exercise_interpretability), [slides](https://uni-bonn.sciebo.de/s/H7suTOhvj4ECko6)
  - Day 15: Sequence models:
     - Transformers, Long-Short-Term-Memory, text-based language models.
-    - [recording](https://uni-bonn.sciebo.de/s/H2QWgA78IIkdDJ1), [exercise](https://github.com/Machine-Learning-Foundations/day_09_exercise_sequence_processing), [slides](https://uni-bonn.sciebo.de/s/g56Hh4lNja6A39S)
+    - [recording](https://uni-bonn.sciebo.de/s/H2QWgA78IIkdDJ1), [exercise](https://github.com/Machine-Learning-Foundations/day_14_exercise_sequence_processing), [slides](https://uni-bonn.sciebo.de/s/g56Hh4lNja6A39S)
 
 See you during the course,
 
