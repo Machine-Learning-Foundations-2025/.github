@@ -24,19 +24,19 @@ Programming in Python. If you are not yet familiar with python, please consult h
 ### Part 2, Foundations of machine learning
 - Day 5: Machine learning basics
   - Overfitting and underfitting, classification, regression, k-nearest neighbours.
-  - [exercise](https://github.com/Machine-Learning-Foundations/day_05_exercise_ML_basics)
+  - [recording](https://uni-bonn.sciebo.de/s/3CNcv026DVkYMkH), [exercise](https://github.com/Machine-Learning-Foundations/day_05_exercise_ML_basics), [slides](https://uni-bonn.sciebo.de/s/JVzmfvlsLICtMH3)
 - Day 6: Support vector machines
   - Linear separable, non-linear separable, kernel trick.
-  - [exercise](https://github.com/Machine-Learning-Foundations/day_06_exercise_svm_svr)
+  - [recording](https://uni-bonn.sciebo.de/s/Mgreb3nu7lYmxnJ), [exercise](https://github.com/Machine-Learning-Foundations/day_06_exercise_svm_svr), [slides](https://uni-bonn.sciebo.de/s/OSOG8bNDDh0Bo6N)
 - Day 7: Decision trees and random forests:
   - Decision trees, random forests, bias and variance problem, bagging.
-  - [exercise](https://github.com/Machine-Learning-Foundations/day_07_exercise_decision_trees)
+  - [recording](https://uni-bonn.sciebo.de/s/WaQtWe0yyGQXpuT), [exercise](https://github.com/Machine-Learning-Foundations/day_07_exercise_decision_trees), [slides](https://uni-bonn.sciebo.de/s/Nm7oshdmzwFCYmG)
 - Day 8:  Clustering and density estimation
   - K-means clustering, Gaussian mixture models, expectation-maximization.
-  - [exercise](https://github.com/Machine-Learning-Foundations/day_08_exercise_cluster_analysis)
+  - [recording](https://uni-bonn.sciebo.de/s/UvA3P7u9h9otQJZ), [exercise](https://github.com/Machine-Learning-Foundations/day_08_exercise_cluster_analysis), [slides](https://uni-bonn.sciebo.de/s/qLlRb3xrna9quY7)
 - Day 9: Principal component analysis (PCA)
   - PCA for dimensionality reduction, PCA for compression and other applications.
-  - [exercise](https://github.com/Machine-Learning-Foundations/day_09_exercise_dim_reduction)
+  - [recording](https://uni-bonn.sciebo.de/s/8fe7DVTntSAdu1R), [exercise](https://github.com/Machine-Learning-Foundations/day_09_exercise_dim_reduction), [slides](https://uni-bonn.sciebo.de/s/HNty8VNExI3dPl4)
 
 ### Part 3, Using HPC Systems
 - Day 10: Introduction to the HPC Systems at Uni Bonn.
