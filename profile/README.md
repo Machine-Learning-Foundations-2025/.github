@@ -22,6 +22,7 @@ Programming in Python. If you are not yet familiar with python, please consult h
    - [recording](https://uni-bonn.sciebo.de/s/w5smMgZSHZU53qf), [exercise](https://github.com/Machine-Learning-Foundations/day_03_exercise_algebra), [slides](https://uni-bonn.sciebo.de/s/2r7NA3KWIuaJNdy)
 - Day 4:  Statistics
    - mean and variance, correlation, gaussians.
+   - [recording](https://uni-bonn.sciebo.de/s/fA7HqygB3KBiu4l), [exercise](https://github.com/Machine-Learning-Foundations/day_04_exercise_statistics_prob), [slides](https://uni-bonn.sciebo.de/s/BmxW2qAzIhVnpnU)
 
 ### Part 2, Foundations of machine learning
 - Day 5: Machine learning basics
