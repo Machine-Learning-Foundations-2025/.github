@@ -3,8 +3,6 @@ Three weeks, 15 days, a lecture and exercises every day. The three-week course t
 
 Members of the University of Bonn can register via ecampus.
 
-Three weeks, 15 days, a lecture and exercises every day. The three-week course takes place from 9:00-17:00 at the University IT and Data Center (Hochschulrechenzentrum HRZ). The course structure is 90 minutes of lecture 90 min exercises, followed by 4 hrs of programming under guidance from the tutors.
-
 Prerequisites:
 Programming in Python. If you are not yet familiar with python, please consult https://docs.python.org/3/tutorial/ before the first session.
 
