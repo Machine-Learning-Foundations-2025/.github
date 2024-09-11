@@ -65,7 +65,7 @@ Programming in Python. If you are not yet familiar with python, please consult h
 
 See you during the course,
 
-Your lecturers, Elena and Moritz.
+Your lecturers, Elena, Lokesh, and Moritz.
 
 
 
