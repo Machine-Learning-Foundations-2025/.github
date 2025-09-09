@@ -17,13 +17,13 @@ Programming in Python. If you are not yet familiar with python, please consult h
         - The derivative, gradients, optimization via gradient descent.
         - [exercise](https://github.com/Machine-Learning-Foundations/day_02_exercise_optimization),  [slides](https://uni-bonn.sciebo.de/s/fI9v8QmIm1O1wc2) 
 - Day 02:   Linear Algebra and Statistics:
-   - mean and variance, correlation, gaussians.
-       - [slides](https://uni-bonn.sciebo.de/s/BmxW2qAzIhVnpnU)
    - Matrix multiplication, singular value decomposition, Linear Regression.
        - [exercise](https://github.com/Machine-Learning-Foundations/day_03_exercise_algebra), [slides](https://uni-bonn.sciebo.de/s/2r7NA3KWIuaJNdy)
 
 ### Part 2, Foundations of machine learning
-- Day 03: Machine learning basics
+- Day 03: Machine learning basics and statistics
+   - mean and variance, correlation, gaussians.
+       - [slides](https://uni-bonn.sciebo.de/s/BmxW2qAzIhVnpnU)
   - Overfitting and underfitting, classification, regression, k-nearest neighbours.
   - [exercise](https://github.com/Machine-Learning-Foundations/day_05_exercise_ML_basics), [slides](https://uni-bonn.sciebo.de/s/JVzmfvlsLICtMH3)
 - Day 04: Support vector machines
