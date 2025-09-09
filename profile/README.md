@@ -12,13 +12,13 @@ Programming in Python. If you are not yet familiar with python, please consult h
 - Day 01:
     - Introduction
         - What is machine learning, and what can it do for us?
-        - [exercise](https://github.com/Machine-Learning-Foundations/exercise_01_intro) <br>
+        - [exercise](https://github.com/Machine-Learning-Foundations-2025/exercise_01_intro) <br>
     - Optimization
         - The derivative, gradients, optimization via gradient descent.
-        - [exercise](https://github.com/Machine-Learning-Foundations/day_02_exercise_optimization)
+        - [exercise](https://github.com/Machine-Learning-Foundations-2025/exercise_01_optimization)
 - Day 02:   Linear Algebra and Statistics:
    - Matrix multiplication, singular value decomposition, Linear Regression.
-       - [exercise](https://github.com/Machine-Learning-Foundations/day_03_exercise_algebra)
+       - [exercise](https://github.com/Machine-Learning-Foundations/exercise_02_algebra)
 
 ### Part 2, Foundations of machine learning
 - Day 03: Machine learning basics and statistics
