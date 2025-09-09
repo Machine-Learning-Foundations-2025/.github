@@ -12,32 +12,32 @@ Programming in Python. If you are not yet familiar with python, please consult h
 - Day 01:
     - Introduction
         - What is machine learning, and what can it do for us?
-        - [exercise](https://github.com/Machine-Learning-Foundations/exercise_01_intro), [slides](https://uni-bonn.sciebo.de/s/V3P9eO6YwH6RQWS) <br>
+        - [exercise](https://github.com/Machine-Learning-Foundations/exercise_01_intro) <br>
     - Optimization
         - The derivative, gradients, optimization via gradient descent.
-        - [exercise](https://github.com/Machine-Learning-Foundations/day_02_exercise_optimization),  [slides](https://uni-bonn.sciebo.de/s/fI9v8QmIm1O1wc2) 
+        - [exercise](https://github.com/Machine-Learning-Foundations/day_02_exercise_optimization)
 - Day 02:   Linear Algebra and Statistics:
    - Matrix multiplication, singular value decomposition, Linear Regression.
-       - [exercise](https://github.com/Machine-Learning-Foundations/day_03_exercise_algebra), [slides](https://uni-bonn.sciebo.de/s/2r7NA3KWIuaJNdy)
+       - [exercise](https://github.com/Machine-Learning-Foundations/day_03_exercise_algebra)
 
 ### Part 2, Foundations of machine learning
 - Day 03: Machine learning basics and statistics
    - mean and variance, correlation, gaussians.
        - [slides](https://uni-bonn.sciebo.de/s/BmxW2qAzIhVnpnU)
   - Overfitting and underfitting, classification, regression, k-nearest neighbours.
-  - [exercise](https://github.com/Machine-Learning-Foundations/day_05_exercise_ML_basics), [slides](https://uni-bonn.sciebo.de/s/JVzmfvlsLICtMH3)
+  - [exercise](https://github.com/Machine-Learning-Foundations/day_05_exercise_ML_basics)
 - Day 04: Support vector machines
   - Linear separable, non-linear separable, kernel trick.
-  - [exercise](https://github.com/Machine-Learning-Foundations/day_06_exercise_svm_svr), [slides](https://uni-bonn.sciebo.de/s/OSOG8bNDDh0Bo6N)
+  - [exercise](https://github.com/Machine-Learning-Foundations/day_06_exercise_svm_svr)
 - Day 05: Decision trees and random forests:
   - Decision trees, bias and variance problem, bagging, random forests.
-  - [exercise](https://github.com/Machine-Learning-Foundations/day_07_exercise_decision_trees), [slides](https://uni-bonn.sciebo.de/s/Nm7oshdmzwFCYmG)
+  - [exercise](https://github.com/Machine-Learning-Foundations/day_07_exercise_decision_trees)
 - Day 06:  Clustering and density estimation
   - K-means clustering, Gaussian mixture models, Expectation-Maximization.
-  - [exercise](https://github.com/Machine-Learning-Foundations/day_08_exercise_cluster_analysis), [slides](https://uni-bonn.sciebo.de/s/qLlRb3xrna9quY7)
+  - [exercise](https://github.com/Machine-Learning-Foundations/day_08_exercise_cluster_analysis)
 - Day 07: Principal component analysis (PCA)
   - PCA for dimensionality reduction and other applications.
-  - [exercise](https://github.com/Machine-Learning-Foundations/day_09_exercise_dim_reduction), [slides](https://uni-bonn.sciebo.de/s/HNty8VNExI3dPl4)
+  - [exercise](https://github.com/Machine-Learning-Foundations/day_09_exercise_dim_reduction)
 
 ### Part 3, Using HPC Systems
 - Day 08: Introduction to the HPC Systems at Uni Bonn.
@@ -45,23 +45,23 @@ Programming in Python. If you are not yet familiar with python, please consult h
 ### Part 4, Deep Learning
 - Day 09: Fully connected networks:
     -  The MNIST-data set, artificial neurons, forward and backward pass.
-    -  [exercise](https://github.com/Machine-Learning-Foundations/day_11_exercise_neural_networks), [slides](https://uni-bonn.sciebo.de/s/dAILvtcj5FWoke1)
+    -  [exercise](https://github.com/Machine-Learning-Foundations/day_11_exercise_neural_networks)
 - Day 10: Convolutional neural networks:
     -  The convolution operation and convolutional neural networks.
-    -  [exercise](https://github.com/Machine-Learning-Foundations/day_12_exercise_cnn), [slides](https://uni-bonn.sciebo.de/s/wC9OVeHqO1OLiB4)
+    -  [exercise](https://github.com/Machine-Learning-Foundations/day_12_exercise_cnn)
 - Day 11:
     -  Optimization for deep learning:
         - Gradient descent with momentum, Adam, early stopping, regularization
-        - [exercise](https://github.com/Machine-Learning-Foundations/day_13_exercise_brain_decode), [slides](https://uni-bonn.sciebo.de/s/rWJRhQAGVkhpZwA)
+        - [exercise](https://github.com/Machine-Learning-Foundations/day_13_exercise_brain_decode)
     - Segmentation:
         -  Semantic Segmentation, U-Net, Intersection-over-Union, Focal loss
-        -  [exercise](https://github.com/Machine-Learning-Foundations/exercise_13_segmentation), [slides]
+        -  [exercise](https://github.com/Machine-Learning-Foundations/exercise_13_segmentation)
 - Day 12: Interpretability:
     - visualization of linear classifiers, saliency maps, integrated gradients
-    - [exercise](https://github.com/Machine-Learning-Foundations/day_14_exercise_interpretability), [slides](https://uni-bonn.sciebo.de/s/H7suTOhvj4ECko6)
+    - [exercise](https://github.com/Machine-Learning-Foundations/day_14_exercise_interpretability)
  - Day 13: Sequence models:
     - Transformers, Long-Short-Term-Memory, text-based language models.
-    - [exercise](https://github.com/Machine-Learning-Foundations/exercise_15_language_models), [slides](https://github.com/Machine-Learning-Foundations/day_15_lecture_sequence_processing/blob/main/presentation.pdf)
+    - [exercise](https://github.com/Machine-Learning-Foundations/exercise_15_language_models)
 
 See you during the course,
 
