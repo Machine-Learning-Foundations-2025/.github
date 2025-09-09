@@ -18,9 +18,9 @@ Programming in Python. If you are not yet familiar with python, please consult h
         - [exercise](https://github.com/Machine-Learning-Foundations/day_02_exercise_optimization),  [slides](https://uni-bonn.sciebo.de/s/fI9v8QmIm1O1wc2) 
 - Day 02:   Linear Algebra and Statistics:
    - mean and variance, correlation, gaussians.
-   - [slides](https://uni-bonn.sciebo.de/s/BmxW2qAzIhVnpnU)
+       - [slides](https://uni-bonn.sciebo.de/s/BmxW2qAzIhVnpnU)
    - Matrix multiplication, singular value decomposition, Linear Regression.
-   - [exercise](https://github.com/Machine-Learning-Foundations/day_03_exercise_algebra), [slides](https://uni-bonn.sciebo.de/s/2r7NA3KWIuaJNdy)
+       - [exercise](https://github.com/Machine-Learning-Foundations/day_03_exercise_algebra), [slides](https://uni-bonn.sciebo.de/s/2r7NA3KWIuaJNdy)
 
 ### Part 2, Foundations of machine learning
 - Day 03: Machine learning basics
