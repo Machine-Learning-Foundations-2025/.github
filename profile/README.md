@@ -23,7 +23,6 @@ Programming in Python. If you are not yet familiar with python, please consult h
 ### Part 2, Foundations of machine learning
 - Day 03: Machine learning basics and statistics
    - mean and variance, correlation, gaussians.
-       - [slides](https://uni-bonn.sciebo.de/s/BmxW2qAzIhVnpnU)
   - Overfitting and underfitting, classification, regression, k-nearest neighbours.
   - [exercise](https://github.com/Machine-Learning-Foundations/day_05_exercise_ML_basics)
 - Day 04: Support vector machines
