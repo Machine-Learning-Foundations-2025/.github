@@ -16,7 +16,7 @@ Programming in Python. If you are not yet familiar with python, please consult h
     - Optimization
         - The derivative, gradients, optimization via gradient descent.
         - [exercise](https://github.com/Machine-Learning-Foundations-2025/exercise_01_optimization)
-- Day 02:   Linear Algebra and Statistics:
+- Day 02: Linear Algebra:
    - Matrix multiplication, singular value decomposition, Linear Regression.
        - [exercise](https://github.com/Machine-Learning-Foundations/exercise_02_algebra)
 
@@ -24,7 +24,7 @@ Programming in Python. If you are not yet familiar with python, please consult h
 - Day 03: Machine learning basics and statistics
    - mean and variance, correlation, gaussians.
   - Overfitting and underfitting, classification, regression, k-nearest neighbours.
-  - [exercise](https://github.com/Machine-Learning-Foundations/day_05_exercise_ML_basics)
+  - [exercise](https://github.com/Machine-Learning-Foundations-2025/exercise_03_MLbasics)
 - Day 04: Support vector machines
   - Linear separable, non-linear separable, kernel trick.
   - [exercise](https://github.com/Machine-Learning-Foundations/day_06_exercise_svm_svr)
