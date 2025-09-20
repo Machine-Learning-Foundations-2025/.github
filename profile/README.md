@@ -51,16 +51,20 @@ Programming in Python. If you are not yet familiar with python, please consult h
 - Day 11:
     -  Optimization for deep learning:
         - Gradient descent with momentum, Adam, early stopping, regularization
-        - [exercise](https://github.com/Machine-Learning-Foundations/day_13_exercise_brain_decode)
     - Segmentation:
         -  Semantic Segmentation, U-Net, Intersection-over-Union, Focal loss
-        -  [exercise](https://github.com/Machine-Learning-Foundations/exercise_13_segmentation)
+    - Choose a track:
+        - [exercise - Segmentation (recommended)](https://github.com/Machine-Learning-Foundations/exercise_13_segmentation)
+        - [exercise - Brain decoding](https://github.com/Machine-Learning-Foundations/day_13_exercise_brain_decode)
+
 - Day 12: Interpretability:
     - visualization of linear classifiers, saliency maps, integrated gradients
     - [exercise](https://github.com/Machine-Learning-Foundations/day_14_exercise_interpretability)
  - Day 13: Sequence models:
     - Transformers, Long-Short-Term-Memory, text-based language models.
-    - [exercise](https://github.com/Machine-Learning-Foundations/exercise_15_language_models)
+    - Choose a track:
+        - [language model training](https://github.com/Machine-Learning-Foundations/exercise_15_language_models)
+        - [retrieval augmented generation](https://github.com/Machine-Learning-Foundations-2025/exercise_13_rag/settings)
 
 See you during the course,
 
