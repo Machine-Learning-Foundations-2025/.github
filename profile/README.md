@@ -54,8 +54,8 @@ Programming in Python. If you are not yet familiar with python, please consult h
     - Segmentation:
         -  Semantic Segmentation, U-Net, Intersection-over-Union, Focal loss
     - Choose a track:
-        - [exercise - segmentation (recommended)](https://github.com/Machine-Learning-Foundations/exercise_13_segmentation)
-        - [exercise - brain decoding](https://github.com/Machine-Learning-Foundations/day_13_exercise_brain_decode)
+        - [track 1 - exercise - segmentation (recommended)](https://github.com/Machine-Learning-Foundations/exercise_13_segmentation)
+        - [track 2 - exercise - brain decoding](https://github.com/Machine-Learning-Foundations/day_13_exercise_brain_decode)
 
 - Day 12: Interpretability:
     - visualization of linear classifiers, saliency maps, integrated gradients
@@ -63,8 +63,8 @@ Programming in Python. If you are not yet familiar with python, please consult h
  - Day 13: Sequence models:
     - Transformers, Long-Short-Term-Memory, text-based language models.
     - Choose a track:
-        - [exercise - language model training](https://github.com/Machine-Learning-Foundations/exercise_15_language_models)
-        - [exercise - retrieval augmented generation](https://github.com/Machine-Learning-Foundations-2025/exercise_13_rag)
+        - [track 1 - exercise - language model training](https://github.com/Machine-Learning-Foundations/exercise_15_language_models)
+        - [track 2 - exercise - retrieval augmented generation](https://github.com/Machine-Learning-Foundations-2025/exercise_13_rag)
 
 See you during the course,
 
