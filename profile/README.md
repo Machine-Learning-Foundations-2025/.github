@@ -61,7 +61,7 @@ Programming in Python. If you are not yet familiar with python, please consult h
     - visualization of linear classifiers, saliency maps, integrated gradients
     - [exercise](https://github.com/Machine-Learning-Foundations/day_14_exercise_interpretability)
  - Day 13: Sequence models:
-    - Transformers, Long-Short-Term-Memory, text-based language models.
+    - Transformers, Long-Short-Term-Memory, text-based language models, retrieval augmented generation (RAG).
     - Choose a track:
         - [track 1 - exercise - language model training](https://github.com/Machine-Learning-Foundations/exercise_15_language_models)
         - [track 2 - exercise - retrieval augmented generation](https://github.com/Machine-Learning-Foundations-2025/exercise_13_rag)
