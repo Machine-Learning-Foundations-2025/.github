@@ -54,8 +54,8 @@ Programming in Python. If you are not yet familiar with python, please consult h
     - Segmentation:
         -  Semantic Segmentation, U-Net, Intersection-over-Union, Focal loss
     - Choose a track:
-        - [exercise - Segmentation (recommended)](https://github.com/Machine-Learning-Foundations/exercise_13_segmentation)
-        - [exercise - Brain decoding](https://github.com/Machine-Learning-Foundations/day_13_exercise_brain_decode)
+        - [exercise - segmentation (recommended)](https://github.com/Machine-Learning-Foundations/exercise_13_segmentation)
+        - [exercise - brain decoding](https://github.com/Machine-Learning-Foundations/day_13_exercise_brain_decode)
 
 - Day 12: Interpretability:
     - visualization of linear classifiers, saliency maps, integrated gradients
