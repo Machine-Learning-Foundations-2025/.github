@@ -64,7 +64,7 @@ Programming in Python. If you are not yet familiar with python, please consult h
     - Transformers, Long-Short-Term-Memory, text-based language models, retrieval augmented generation (RAG).
     - Choose a track:
         - [track 1 - exercise - language model training](https://github.com/Machine-Learning-Foundations/exercise_15_language_models)
-        - [track 2 - exercise - retrieval augmented generation](https://github.com/Machine-Learning-Foundations-2025/exercise_13_rag)
+        - [track 2 - exercise - retrieval augmented generation](https://github.com/Machine-Learning-Foundations-2025/exercise_15_rag)
 
 See you during the course,
 
